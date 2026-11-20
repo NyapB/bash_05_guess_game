@@ -8,11 +8,13 @@ using this project to learn and practice bash programming
 
 ## 🎯 Project Goals
 
-The project's goal is to allow users to input numbers over and over until they guess the random number given by the program correctly.
+- The project's goal is to allow users to input numbers over and over until they guess the random number given by the program correctly.
 
 ## 🛠 Tech Stack
 
 bash
+Git
+GitHub
 
 ## 📷 Screenshots
 
